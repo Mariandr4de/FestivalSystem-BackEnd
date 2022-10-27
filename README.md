@@ -6,7 +6,7 @@ Projeto Final de Backend - Labenu Music Awards🎸
 Este projeto tem como objetivo criar uma API para o gerenciamento de um festival de música. Onde podemos cadastrar um usuário, cadastrar atrações musicais e efetuar reservas de ingressos. A API foi desenvolvida utilizando as tecnologias Node.JS, Typescript, Express.JS, MySQL, Jest para testes unitários e foi estruturado com Programação Orientada a Objetos(POO).
 </h4>
 
-### Endpoints:
+## Endpoints:
 - Signup
 - Login
 - Create Show
@@ -69,7 +69,7 @@ Para aplicação funcionar corretamente é necessário criar um arquivo ```.env`
 
 <table align="center">
   <tr>
-    </td> <td align="center"><a href="https://github.com/Mariandr4de"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104591781?v=4" width="100px;" alt=""/><br /><sub><b>Mariana Andrade</b></sub></a> 
+    </td> <td align="center"><a href="https://www.linkedin.com/in/mariandr4de/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104591781?v=4" width="100px;" alt=""/><br /><sub><b>Mariana Andrade</b></sub></a> 
   </tr>
 </table>
 
